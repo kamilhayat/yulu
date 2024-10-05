@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-yulu-dev-2d8ad-authRole",
+      "UnauthRoleArn": "arn:aws:iam::992382564523:role/amplify-yulu-dev-2d8ad-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::992382564523:role/amplify-yulu-dev-2d8ad-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-yulu-dev-2d8ad-deployment",
+      "UnauthRoleName": "amplify-yulu-dev-2d8ad-unauthRole",
+      "StackName": "amplify-yulu-dev-2d8ad",
+      "StackId": "arn:aws:cloudformation:us-east-1:992382564523:stack/amplify-yulu-dev-2d8ad/b3677bc0-0be3-11ef-ac39-12ad9953f0bd",
+      "AmplifyAppId": "d6qwi5e7v267g"
+    }
+  }
+}

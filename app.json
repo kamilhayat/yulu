@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "yulu",
+    "slug": "yulu",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logoyulu.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/YULU.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.example.yulu"
+      
+      
+
+      
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow Explore Place to use your location."
+        }
+      ]
+    ]
+  }
+}
